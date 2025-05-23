@@ -65,7 +65,7 @@ You'll find the link inside the notebook!
 
 ## 👩‍💻 Built With Love By
 Menna   
-Maryam  
+Marym  
 Farah  
 Nada  
 Basmalla  
@@ -77,7 +77,7 @@ mennaateya30@gmail.com
 ## 🔗 LinkedIn profiles:
 
 - [Menna]([://github.com/mehttpsnnausername](https://www.linkedin.com/in/menna-ateya/))
-
+- [marym](www.linkedin.com/in/marym-ayman-43aa0a26b)
 ## 🪪 License
 MIT License – feel free to use, modify, and share the project.
 Just give credit where credit is due 🤝
