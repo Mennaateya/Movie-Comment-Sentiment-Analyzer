@@ -78,7 +78,7 @@ nadawahdan493@gmail.com
 
 ## 🔗 LinkedIn profiles:
 
-- Menna : https://www.linkedin.com/in/menna-ateya
+- Menna : https://www.linkedin.com/in/menna-ateya/
 - Marym : https://www.linkedin.com/in/marym-ayman-43aa0a26b
 - Nada : https://www.linkedin.com/in/nada-wahdan-5227222b1
 ## 🪪 License
