@@ -73,13 +73,14 @@ Basmalla
 ## 📧 our Gmails:
 mennaateya30@gmail.com   
 marym.ayman.mo@gmail.com   
-nadawahdan493@gmail.com    
+nadawahdan493@gmail.com   
 
 ## 🔗 LinkedIn profiles:
 
 - Menna : https://www.linkedin.com/in/menna-ateya/  
 - Marym : https://www.linkedin.com/in/marym-ayman-43aa0a26b  
 - Nada : https://www.linkedin.com/in/nada-wahdan-5227222b1
+- basmala : https://www.linkedin.com/in/basmala-essam-67136b326
 ## 🪪 License
 MIT License – feel free to use, modify, and share the project.
 Just give credit where credit is due 🤝
