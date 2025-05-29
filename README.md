@@ -69,12 +69,11 @@ Marym
 Farah  
 Nada  
 Basmalla  
-Youstina  
 
 ## 📧 our Gmails:
-mennaateya30@gmail.com
-marym.ayman.mo@gmail.com
-nadawahdan493@gmail.com 
+mennaateya30@gmail.com   
+marym.ayman.mo@gmail.com   
+nadawahdan493@gmail.com    
 
 ## 🔗 LinkedIn profiles:
 
